@@ -85,7 +85,7 @@ matlab-simulink-system-modeling-and-testbench-validation/
 │   ├── figures/
 │   └── README.md
 │
-├── 02_fft_and_spectral_analysis_testbench/
+├── 02_Wideband_SVD_DMRS_Massive_MIMO_Simulink_Testbench/
 │   ├── matlab/
 │   ├── simulink/
 │   ├── test_vectors/
