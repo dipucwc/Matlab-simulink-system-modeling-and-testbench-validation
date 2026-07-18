@@ -318,10 +318,10 @@ Generated folders such as `slprj/`, `codegen/`, and simulation cache files are i
 
 ## Technical Report
 
-The focused 5-8 page report is available in:
+The report is available in:
 
 - [`Report/5G_NR_Massive_MIMO_Simulink_Testbench_Report.pdf`](Report/5G_NR_Massive_MIMO_Simulink_Testbench_Report.pdf)
-- [`Report/5G_NR_Massive_MIMO_Simulink_Testbench_Report.docx`](Report/5G_NR_Massive_MIMO_Simulink_Testbench_Report.docx)
+
 
 ## Citation
 
